@@ -1,0 +1,5 @@
+/build/
+/.vs/
+/bin/
+/obj/
+*.vcxproj.user
